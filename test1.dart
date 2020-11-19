@@ -45,14 +45,6 @@ Mahmud
   // print(str.runtimeType); // String
   // print(num1); // null
   // print(num1.runtimeType); // Null
-
-
-
-
-
-  
-
-
 }
 
 /// dart --enable-asserts test1.dart
